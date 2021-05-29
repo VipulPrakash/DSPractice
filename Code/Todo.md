@@ -1,3 +1,4 @@
 LeetCode:
-  1) https://leetcode.com/problems/two-sum/submissions/
-  2) 
+  * https://leetcode.com/problems/two-sum/submissions/
+  * https://leetcode.com/problems/reverse-string/submissions/
+  * 
